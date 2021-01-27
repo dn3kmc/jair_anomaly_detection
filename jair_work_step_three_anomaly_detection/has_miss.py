@@ -1,0 +1,11 @@
+has_miss = ['exchange-3_cpc_results_nofill.csv', 
+			'exchange-3_cpm_results_nofill.csv', 
+			'artificial_cd_1_nofill.csv', 
+			'exchange-2_cpc_results_nofill.csv', 
+			'ec2_cpu_utilization_ac20cd_nofill.csv', 
+			'elb_request_count_8c0756_nofill.csv', 
+			'rds_cpu_utilization_cc0c53_nofill.csv',
+			'ambient_temperature_system_failure_nofill.csv', 
+			'exchange-2_cpm_results_nofill.csv', 
+			'artificial_cd_3_nofill.csv',
+			'ibm-common-stock-closing-prices_nofill.csv']
